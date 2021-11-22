@@ -1,5 +1,1 @@
-*
-!.gitignore
-!*.c
-!*.sh
-!*.md
+*.csv
